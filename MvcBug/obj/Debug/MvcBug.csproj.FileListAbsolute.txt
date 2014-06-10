@@ -1,0 +1,4 @@
+c:\users\eosipov\documents\visual studio 2010\Projects\MvcBug\MvcBug\bin\MvcBug.dll
+c:\users\eosipov\documents\visual studio 2010\Projects\MvcBug\MvcBug\bin\MvcBug.pdb
+c:\users\eosipov\documents\visual studio 2010\Projects\MvcBug\MvcBug\obj\Debug\MvcBug.dll
+c:\users\eosipov\documents\visual studio 2010\Projects\MvcBug\MvcBug\obj\Debug\MvcBug.pdb
